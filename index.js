@@ -6,7 +6,7 @@ module.exports = {
     jest: true,
   },
   extends: ['airbnb', 'prettier'],
-  parser: 'babel - eslint',
+  parser: 'babel-eslint',
   plugins: ['react', 'prettier'],
   rules: {
     'import/no-named-as-default': 'off',
