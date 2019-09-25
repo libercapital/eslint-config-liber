@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-liber",
+  "version": "1.0.0",
+  "description": "Liber eslint and prettier configuration",
+  "main": "index.js",
+  "repository": "git@github.com:libercapital/eslint-config-liber.git",
+  "author": "Raul Fiori <raulproc1807@gmail.com>",
+  "license": "MIT"
+}

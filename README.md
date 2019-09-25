@@ -1,0 +1,1 @@
+Liber eslint and prettier configuration
