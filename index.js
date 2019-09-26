@@ -23,6 +23,15 @@ module.exports = {
     'no-console': 'off',
     'react/destructuring-assignment': 'off',
     'react/jsx-one-expression-per-line': 'off',
-    'prettier/prettier': ['error'],
+    'prettier/prettier': [
+      'error',
+      {
+        singleQuote: true,
+        trailingComma: 'all',
+        arrowParens: 'avoid',
+        printWidth: 100,
+        tabWidth: 2,
+      },
+    ],
   },
 };
