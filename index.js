@@ -15,7 +15,7 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'react/react-in-jsx-scope': 'off',
     'max-len': [
-      error,
+      'error',
       {
         code: 120,
       },
