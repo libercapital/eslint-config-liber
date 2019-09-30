@@ -6,7 +6,6 @@
   "repository": "git@github.com:libercapital/eslint-config-liber.git",
   "author": "Raul Fiori <raulproc1807@gmail.com>",
   "license": "MIT",
-  "prettier": "prettier.config.js",
   "peerDependencies": {
     "eslint": ">= 6",
     "prettier": ">= 1"
