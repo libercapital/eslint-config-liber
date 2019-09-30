@@ -26,3 +26,10 @@ Eslint and prettier configuration for front-end projects
 
 
 
+## Usage
+
+in your `.eslintrc` or in the eslint configuration in `package.json` extend from this config 
+```
+"extends": "liber"
+```
+
