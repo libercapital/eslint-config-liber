@@ -5,7 +5,7 @@ module.exports = {
     jasmine: true,
     jest: true,
   },
-  extends: ['airbnb', 'prettier'],
+  extends: ['airbnb', 'prettier', 'prettier/react'],
   parser: 'babel-eslint',
   plugins: ['react', 'prettier'],
   rules: {
