@@ -6,10 +6,6 @@
   "repository": "git@github.com:libercapital/eslint-config-liber.git",
   "author": "Raul Fiori <raulproc1807@gmail.com>",
   "license": "MIT",
-  "peerDependencies": {
-    "eslint": ">= 6",
-    "prettier": ">= 1"
-  },
   "dependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "6.4.0",
