@@ -7,7 +7,7 @@ module.exports = {
   },
   extends: ['airbnb', 'prettier', 'prettier/react'],
   parser: 'babel-eslint',
-  plugins: ['react', 'prettier'],
+  plugins: ['react', 'prettier', 'react-hooks', 'import'],
   rules: {
     'import/no-named-as-default': 'off',
     'import/prefer-default-export': 'off',
