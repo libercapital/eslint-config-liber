@@ -6,7 +6,7 @@ Eslint and prettier configuration for front-end projects
 
 1. add the package to the devDependencies on package.json:
   ```
-  "eslint-config-liber": "git+ssh://git@github.com:libercapital/eslint-config-liber"
+  "eslint-config-liber": "git+https://github.com/libercapital/eslint-config-liber.git"
   ```
 2. add the peer dependecencies `yarn add -D prettier eslint`
 
