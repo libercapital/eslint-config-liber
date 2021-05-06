@@ -18,7 +18,7 @@ Eslint and prettier configuration for front-end projects
   ```
    - or create a `prettier.config.js` file :
    ```
-   module.exports = require('eslint-config-liber/prettier);
+   module.exports = require('eslint-config-liber/prettier');
    ```
 
    with that any prettier extension you're using should be able to recognize the configuration
